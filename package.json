@@ -1,0 +1,21 @@
+{
+  "name": "angular-event-bus",
+  "version": "0.0.1",
+  "peerDependencies": {
+    "@angular/common": "^8.2.14",
+    "@angular/core": "^8.2.14"
+  },
+  "main": "bundles/angular-event-bus.umd.js",
+  "module": "fesm5/angular-event-bus.js",
+  "es2015": "fesm2015/angular-event-bus.js",
+  "esm5": "esm5/angular-event-bus.js",
+  "esm2015": "esm2015/angular-event-bus.js",
+  "fesm5": "fesm5/angular-event-bus.js",
+  "fesm2015": "fesm2015/angular-event-bus.js",
+  "typings": "angular-event-bus.d.ts",
+  "metadata": "angular-event-bus.metadata.json",
+  "sideEffects": false,
+  "dependencies": {
+    "tslib": "^1.9.0"
+  }
+}
